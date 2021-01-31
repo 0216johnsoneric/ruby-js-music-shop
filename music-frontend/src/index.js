@@ -1,3 +1,4 @@
 const BASE_URL = "http://localhost:3000"
-const TRAINERS_URL = `${BASE_URL}/trainers`
-const POKEMONS_URL = `${BASE_URL}/pokemons`
+const ARTISTS_URL = `${BASE_URL}/artists`
+const SONGS_URL = `${BASE_URL}/songs`
+const GENRES_URL = `${BASE_URL}/genres`
